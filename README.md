@@ -14,3 +14,9 @@ Učebnice: název, předmět, ročník, stav, identifikátor.
 Výpůjčky: kdo má kterou učebnici, datum půjčení a vrácení, stav při vrácení.
 Poškození: typ poškození, kdo jej způsobil, datum nahlášení.
 Uživatelé (role): student, učitel, administrátor.
+
+
+# Základní funkce
+Administrátor/knihovnice: správa učebnic, evidence výpůjček, označování poškození, správa uživatelů
+Učitel: zobrazení výpůjček třídy, kontrola stavu učebnic, pomoc s hromadným vydáváním/vracením, hlášení poškození 
+Žák: zobrazení vlastních výpůjček, kontrola termínů vrácení, hlášení poškození, zobrazení historie výpůjček.
