@@ -20,4 +20,7 @@ Uživatelé (role): student, učitel, administrátor.
 Administrátor/knihovnice: správa učebnic, evidence výpůjček, označování poškození, správa uživatelů
 Učitel: zobrazení výpůjček třídy, kontrola stavu učebnic, pomoc s hromadným vydáváním/vracením, hlášení poškození 
 Žák: zobrazení vlastních výpůjček, kontrola termínů vrácení, hlášení poškození, zobrazení historie výpůjček.
+
+
+
 <img width="604" height="439" alt="image" src="https://github.com/user-attachments/assets/d3303f05-3002-4b48-9c9e-62502427e714" />
